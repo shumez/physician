@@ -8,9 +8,7 @@ Modified: 	2018-12-28 10:53:4
 Copyright (c) 2018 shumez
 -->
 
-
-
-# NeuroCR
+# Clinical Reasoning
 
 - [2019-02-11](2019-02-11.md)
 - [2019-02-04]
