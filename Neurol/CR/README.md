@@ -1,20 +1,20 @@
 <!--
 Filename: 	README.md
-Project: 	/Users/shume/Developer/doc/proj
-Author: 	shumez
-Created: 	2018-05-23 13:54:0
-Modified: 	2018-12-28 10:53:4
+Project: 	/Users/shume/Developer/physician/Neurol/CR
+Author: 	shumez <https://github.com/shumez>
+Created: 	2019-02-16 13:01:4
+Modified: 	2019-02-21 14:18:32
 -----
-Copyright (c) 2018 shumez
+Copyright (c) 2019 shumez
 -->
 
-# Clinical Reasoning
+# [Clinical Reasoning][Resident & Fellow]
 
-- [2019-02-11](2019-02-11.md)
-- [2019-02-04](2019-02-04.md)
-- [2019-01-21](2019-01-21.md)
-- [2019-01-14](2019-01-14.md)
-- [2019-01-07](2019-01-07.md)
+1. [2019-01-07](2019-01-07.md)
+2. [2019-01-14](2019-01-14.md)
+3. [2019-01-21](2019-01-21.md)
+4. [2019-02-04](2019-02-04.md) Leg weakness and stiffness at the emergency room
+5. [2019-02-11](2019-02-11.md) A 65-year-old woman with subacute hemiballism
 
 
 <!-- [![cover](img/)][img] -->
@@ -71,3 +71,5 @@ Copyright (c) 2018 shumez
 [docs]: docs/
 [CHANGELOG.md]: CHANGELOG.md
 [LICENSE.md]: LICENSE.md
+
+[Resident & Fellow]: http://www.neurology.org/search/jcode%3Aneurology%7C%7Cneurclinpract%7C%7Cnng%7C%7Cnnn%20sort%3Apublication-date%20toc_section%3AResident%20and%20Fellow%20Section%7C%7C%20Resident%20%26%20Fellow%20Section?see_more_page=1&see_more_page_title=&facet%5Btoc-section-id%5D%5B0%5D=Resident%20%26%20Fellow%20Section "RESIDENT & FELLOW SECTION"
