@@ -3,7 +3,7 @@ Filename: 	README.md
 Project: 	/Users/shume/Developer/physician/Neurol/CR
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-02-16 13:01:4
-Modified: 	2019-03-11 18:17:37
+Modified: 	2019-03-11 18:19:35
 -----
 Copyright (c) 2019 shumez
 -->
@@ -17,7 +17,7 @@ Copyright (c) 2019 shumez
 05. [2019-02-04 48y F](2019-02-04_48F.md) Leg weakness and stiffness at the emergency room
 06. [2019-02-11 65y F](2019-02-11_65F.md) A 65-year-old woman with subacute hemiballism
 07. [2019-02-25 36y F](2019-02-25_36F.md)
-08. [2019-03-04 54y M](2019-03-04_54F.md)
+08. [2019-03-04 54y M](2019-03-04_54M.md)
 09. [2019-03-04 15y M](2019-03-04_15M.md)
 
 
