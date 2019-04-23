@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-22 21:04:40
+Modified: 	2019-04-23 21:02:5
 -----
 Copyright (c) 2019 shumez
 -->
@@ -29,6 +29,8 @@ e. 気管
 -------------------------------------------------------------
 
 > Answer: a, d, e
+
+> [esophageal cancer]
 
 -------------------------------------------------------------
 
@@ -68,25 +70,85 @@ e. Mallory-Weiss症候群
 
 各消化管疾患と関連する病原体の組み合わせで適切でないのは?
 
-|    |                        |             |
-|----|------------------------|-------------|
-| a. | 胃MALTリンパ腫           | *H. pylori* |
-| b. | 胃癌                    | EBウイルス   |
-| c. | DIHS (薬剤性過敏症症候群) | HHV-6       |
-| d. | 肝内胆管癌               | HCV         |
-| e. | 潰瘍性大腸炎             | アデノウイルス |
+|   |                        |             |
+|---|------------------------|-------------|
+| a | 胃MALTリンパ腫           | *H. pylori* |
+| b | 胃癌                    | EBウイルス   |
+| c | DIHS (薬剤性過敏症症候群) | HHV-6       |
+| d | 肝内胆管癌               | HCV         |
+| e | 潰瘍性大腸炎             | アデノウイルス |
 
 -------------------------------------------------------------
 
 > Answer: e
 
 > a.   
-> b. low-mid diff 胃癌の一部はEBVの感染. in situ hybridization  
+> b. low-mid diff [胃癌][gastric cancer]の一部はEBVの感染. in situ hybridization  
 > c.   
 > d.   
 > e. [UC]はCMV 
 
+炎症性疾患 発癌
+
+| Inflammation  | Cancer                |
+|---------------|-----------------------|
+| HP            | gastric cancer / MALT |
+| UC / CD       | CRC                   |
+| HBV / HCV     | HCC / CCC intrahepatic|
+| Chr Panc      | pancreatic cancer     |
+
 -------------------------------------------------------------
+
+
+## q005
+
+上部消化管像映像. 正しいのは?
+
+a. 扁平上皮癌  
+b. 潰瘍限局型である  
+c. 放射線照射が奏功する  
+d. 腹膜播種をきたしやすい  
+e. Helicobacter pylori感染がない 
+
+-------------------------------------------------------------
+
+> Answer: d
+
+> びまん浸潤型
+
+> a. 胃癌は腺癌が多い. びまん浸潤型では低分化型腺癌.  
+> b.   
+> c.   
+> d.   
+> e.  
+
+-------------------------------------------------------------
+
+
+## q006
+
+切除不能進行・再発胃癌に対する化学療法で使用される分子標的薬は? 2
+
+a. ベバシズマブ (アバスチン)  
+b. ラムシルマブ　(サイラムザ)  
+c. セツキシマブ (アービタックス)  
+d. パニツムマブ (ベクティビックス)  
+e. トラスツズマブ (ハーセプチン) 
+
+-------------------------------------------------------------
+
+> Answer: b, e
+
+> a. anti-VEGF Ab  
+> b. anti-VEGFR-2 Ab  
+> c. anti-EGFR Ab  
+> d. anti-EGFR Ab  
+> e. anti-HER2 Ab 
+
+-------------------------------------------------------------
+
+
+
 
 <!--
 ## q
@@ -113,10 +175,19 @@ e.
 -->
 
 <!-- ref -->
-[]: 
+[MMB]: https://shumez.github.io/mnemosyne/MMB/site/
+
+<!-- a_GE/Oesophagus -->
+[esophageal cancer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Oesophagus#esophageal_cancer
+
+<!-- a_GE/Stomach -->
+[gastric cancer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
 
 <!-- a_GE/Intestine -->
-[UC]: ../../a_GE/Intestine#UC
+[UC]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#UC
+
+
+
 
 
 <!-- <style type="text/css">
