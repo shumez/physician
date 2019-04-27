@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-23 21:02:5
+Modified: 	2019-04-27 16:21:29
 -----
 Copyright (c) 2019 shumez
 -->
@@ -140,10 +140,10 @@ e. トラスツズマブ (ハーセプチン)
 > Answer: b, e
 
 > a. anti-VEGF Ab  
-> b. anti-VEGFR-2 Ab  
+> b. [ramucirumab] anti-VEGFR-2 Ab  
 > c. anti-EGFR Ab  
 > d. anti-EGFR Ab  
-> e. anti-HER2 Ab 
+> e. [trastuzumab] anti-HER2 Ab 
 
 -------------------------------------------------------------
 
@@ -182,6 +182,8 @@ e.
 
 <!-- a_GE/Stomach -->
 [gastric cancer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
+[ramucirumab]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
+[trastuzumab]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
 
 <!-- a_GE/Intestine -->
 [UC]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#UC
