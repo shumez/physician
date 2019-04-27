@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-27 17:07:25
+Modified: 	2019-04-27 17:55:16
 -----
 Copyright (c) 2019 shumez
 -->
@@ -214,6 +214,29 @@ e. *H. pylori*の場合, 除菌が推奨される
 -------------------------------------------------------------
 
 
+## q010
+
+ステロイド抵抗性の重症潰瘍性大腸炎への対応で適切なのは?
+
+a. アメーバ赤痢の治療を追加  
+b. 注腸二重造影で全大腸を観察  
+c. モルヒネの投与で腸管の安静を図る  
+d. サイトメガロウイルスの検索  
+e. NSAIDsを投与 
+
+-------------------------------------------------------------
+
+> Answer: d
+
+> a. []  
+> b.   
+> c. C/I [morphine] &rArr; 抗コリン &rArr; [中毒性巨大結腸症][]  
+> d. [CMV]感染の合併  
+> e.  
+
+-------------------------------------------------------------
+
+
 ##
 
 <!--
@@ -255,6 +278,7 @@ e.
 
 <!-- a_GE/Intestine -->
 [UC]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#UC
+[CMV]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#CMV
 [blind-loop]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#blind-loop
 
 
