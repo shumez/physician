@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-27 16:52:16
+Modified: 	2019-04-27 17:07:25
 -----
 Copyright (c) 2019 shumez
 -->
@@ -191,6 +191,29 @@ e. 十二指腸側に発生
 -------------------------------------------------------------
 
 
+## q009
+
+機能性ディスペプシア(FD)について誤っているもの?
+
+a. GERDやIBSの合併頻度が高い  
+b. QOLの低下が認められる  
+c. 高齢者に限らず, 内視鏡検査の施行が望ましい  
+d. 胃もたれ感に対しては抗コリン薬が有効  
+e. *H. pylori*の場合, 除菌が推奨される 
+
+-------------------------------------------------------------
+
+> Answer: d
+
+> a.   
+> b.   
+> c.   
+> d. [FD]の病因の一つは排出遅延. ChE阻害薬 ([acotiamide])  
+> e.  
+
+-------------------------------------------------------------
+
+
 ##
 
 <!--
@@ -228,6 +251,7 @@ e.
 [ramucirumab]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
 [trastuzumab]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
 [anastomotic_ulcer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#anastomotic_ulcer
+[FD]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#FD
 
 <!-- a_GE/Intestine -->
 [UC]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#UC
