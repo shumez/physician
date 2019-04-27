@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-27 16:21:29
+Modified: 	2019-04-27 16:38:40
 -----
 Copyright (c) 2019 shumez
 -->
@@ -147,6 +147,30 @@ e. トラスツズマブ (ハーセプチン)
 
 -------------------------------------------------------------
 
+## q007
+
+blind loop症候群にみられるのは?2
+
+a. 低葉酸血症  
+b. ビタミンB~12~吸収障害  
+c. 低蛋白血症  
+d. 高ガストリン血症  
+e. 尿中5-HIAA増加 
+
+-------------------------------------------------------------
+
+> Answer: b, c
+
+> a.   
+> b. 細菌がvit.B12を消費  
+> c.   
+> d.   
+> e. カルチノイド症候群: &uarr;5-HIAA 
+
+> [blind-loop]
+
+-------------------------------------------------------------
+
 
 
 
@@ -187,6 +211,7 @@ e.
 
 <!-- a_GE/Intestine -->
 [UC]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#UC
+[blind-loop]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#blind-loop
 
 
 
