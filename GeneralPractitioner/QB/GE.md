@@ -3,18 +3,12 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-27 16:38:40
+Modified: 	2019-04-27 16:52:16
 -----
 Copyright (c) 2019 shumez
 -->
 
 # GE
-
-<!-- ## Contents
-
-1. [...](#)
-    1. [...](#) -->
-
 
 ## q001
 
@@ -172,7 +166,32 @@ e. 尿中5-HIAA増加
 -------------------------------------------------------------
 
 
+## q008
 
+Billroth I法術後の吻合部潰瘍で正しいのは? 2
+
+a. 残胃の胃酸分泌機能残存が原因  
+b. 胆汁酸の胃内逆流が原因  
+c. 十二指腸内のアルカリ化が原因  
+d. 残胃癌発生の母地  
+e. 十二指腸側に発生 
+
+-------------------------------------------------------------
+
+> [吻合部潰瘍][anastomotic_ulcer]は吻合部の肛門側に生じる
+
+> Answer: a, e
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e. 食物の流れる部分に 
+
+-------------------------------------------------------------
+
+
+##
 
 <!--
 ## q
@@ -208,6 +227,7 @@ e.
 [gastric cancer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
 [ramucirumab]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
 [trastuzumab]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
+[anastomotic_ulcer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#anastomotic_ulcer
 
 <!-- a_GE/Intestine -->
 [UC]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#UC
