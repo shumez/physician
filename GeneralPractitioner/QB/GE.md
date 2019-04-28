@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-28 15:20:18
+Modified: 	2019-04-28 15:56:14
 -----
 Copyright (c) 2019 shumez
 -->
@@ -286,6 +286,31 @@ e. 進行すれば肝移植の適応
 -------------------------------------------------------------
 
 
+## 013
+
+Courvoisier signを示すのは?
+
+a. 胆嚢癌  
+b. 膵頭部癌  
+c. 肝内胆管癌  
+d. 下部胆管癌  
+e. 肝門部胆管癌 
+
+-------------------------------------------------------------
+
+> Answer: b, d
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e.  
+
+> Couvoisier sign: 無痛性の胆嚢腫大 [billary tract cancer][billary_tract_cancer]
+
+-------------------------------------------------------------
+
+
 ##
 
 <!--
@@ -336,6 +361,7 @@ e.
 
 <!-- b_Hepa/Cholangio -->
 [PSC]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Cholangio#PSC
+[billary_tract_cancer]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Cholangio#billary_tract_cancer
 
 
 <!-- <style type="text/css">
