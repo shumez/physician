@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-28 13:29:42
+Modified: 	2019-04-28 15:20:18
 -----
 Copyright (c) 2019 shumez
 -->
@@ -262,10 +262,34 @@ e. 閉塞肝静脈圧は上昇
 -------------------------------------------------------------
 
 
+## 012
+
+消長する黄疸と掻痒感とをもつ25歳の男性の内視鏡的逆行性胆管膵管造影(ERCP) 間違っているのは?
+
+a. 潰瘍性大腸炎の合併  
+b. Sjögren症候群との合併  
+c. 抗ミトコンドリア抗体が約70%で陽性  
+d. 胆道ドレナージが有効  
+e. 進行すれば肝移植の適応 
+
+-------------------------------------------------------------
+
+> [PSC]  
+> Answer: b, c
+
+> a. 25%が[UC]と合併  
+> b. [PBC]と[Sjögren]が合併  
+> c. [PBC]: AMA(+)  
+> d.   
+> e.  
+
+-------------------------------------------------------------
+
+
 ##
 
 <!--
-## q
+## 
 
 ?
 
@@ -288,6 +312,7 @@ e.
 -------------------------------------------------------------
 -->
 
+
 <!-- ref -->
 [MMB]: https://shumez.github.io/mnemosyne/MMB/site/
 
@@ -307,9 +332,10 @@ e.
 [blind-loop]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#blind-loop
 
 <!-- b_Hepa/Liver -->
-[IPH]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#IPH
+[IPH]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Liver#IPH
 
-
+<!-- b_Hepa/Cholangio -->
+[PSC]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Cholangio#PSC
 
 
 <!-- <style type="text/css">
