@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-28 15:56:14
+Modified: 	2019-04-28 16:11:59
 -----
 Copyright (c) 2019 shumez
 -->
@@ -311,6 +311,32 @@ e. 肝門部胆管癌
 -------------------------------------------------------------
 
 
+## 014
+
+免疫抑制・化学療法によるB型肝炎ウイルス(HBV)の再活性化について正しいのは?
+
+a. 免疫抑制・化学療法開始前に, スクリーニングとしてHBs抗原とHBV-DNAを同時に測定する  
+b. HBV再活性化で肝炎を発症した場合, スクリーニング時におけるHBs抗原陰性者よりもHBs抗原陽性の方が重症化しやすい  
+c. 免疫抑制。化学療法中にHBV-DNAが陽性化(≥ 2.1 log copies/mL)した場合, AST/ALT活性が基準値内であってもただちに核酸アナログの投与を開始する  
+d. 分子標的薬による治療の場合, HBV再活性化のリスクはない  
+e. 免疫抑制・化学療法が終了となった時点で核酸アナログの投与を終了とする 
+
+-------------------------------------------------------------
+
+> Answer: c
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e.  
+
+> [HB]
+
+-------------------------------------------------------------
+
+
+
 ##
 
 <!--
@@ -358,6 +384,7 @@ e.
 
 <!-- b_Hepa/Liver -->
 [IPH]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Liver#IPH
+[HB]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Liver#HB
 
 <!-- b_Hepa/Cholangio -->
 [PSC]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Cholangio#PSC
