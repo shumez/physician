@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-27 17:55:16
+Modified: 	2019-04-27 18:03:53
 -----
 Copyright (c) 2019 shumez
 -->
@@ -237,6 +237,31 @@ e. NSAIDsを投与
 -------------------------------------------------------------
 
 
+## q011
+
+特発性門脈圧亢進症で正しいのは? 3
+
+a. Fに多い  
+b. 肝小葉構造に改築(+)  
+c. 肝機能障害は軽度  
+d. 脾摘により汎血球減少症は改善される  
+e. 閉塞肝静脈圧は上昇 
+
+-------------------------------------------------------------
+
+> Answer: a, c, d
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e.  
+
+> [特発性門脈圧亢進症][IPH]
+
+-------------------------------------------------------------
+
+
 ##
 
 <!--
@@ -281,6 +306,8 @@ e.
 [CMV]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#CMV
 [blind-loop]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#blind-loop
 
+<!-- b_Hepa/Liver -->
+[IPH]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Intestine#IPH
 
 
 
