@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-04-28 16:11:59
+Modified: 	2019-05-01 16:50:52
 -----
 Copyright (c) 2019 shumez
 -->
@@ -325,8 +325,13 @@ e. 免疫抑制・化学療法が終了となった時点で核酸アナログ�
 
 > Answer: c
 
-> a.   
-> b.   
+> a.  
+> HBs-Ag (–)  
+> &darr;  
+> HBc-Ab(+) | HBs-Ab(+)  
+> &darr;  
+> HBV-DNA   
+> b. HBs-Ag(–) からの*de novo*肝炎の方が重症化  
 > c.   
 > d.   
 > e.  
