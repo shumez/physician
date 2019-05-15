@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-05-08 17:11:9
+Modified: 	2019-05-15 18:04:8
 -----
 Copyright (c) 2019 shumez
 -->
@@ -419,7 +419,7 @@ e. 肝転移を伴う場合は, 通常手術適応はない
 
 ## 018
 
-嚢胞性膵腫瘍について正しいのは?
+[嚢胞性膵腫瘍][]について正しいのは?
 
 a. 膵管内乳頭粘液性腫瘍 (IPMN) においては, 主膵管型よりも分枝型の方が悪性化のリスクが高い  
 b. 分枝型IPMは, 膵頭部よりも膵体尾部にみられることが多い  
@@ -439,6 +439,28 @@ e. 漿液性嚢胞腫瘍 (SCN) はIPMNと同様, 主膵管との交通がみら�
 
 -------------------------------------------------------------
 
+
+## 019
+
+[膵癌][PC]について適切でないのは?
+
+a. [門脈圧亢進症][]を認める  
+b. 水様性下痢が著しい  
+c. [糖尿病][DM]の新規発症や悪化を来す  
+d. CA10-9は経過観察上有用  
+e. 血管造影は腫瘍血管に乏しい 
+
+-------------------------------------------------------------
+
+> Answer: a,b
+
+> a.   
+> b. 脂肪性下痢(+)  
+> c.   
+> d.   
+> e.  
+
+-------------------------------------------------------------
 
 ##
 
@@ -492,6 +514,13 @@ e.
 <!-- b_Hepa/Cholangio -->
 [PSC]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Cholangio#PSC
 [billary_tract_cancer]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Cholangio#billary_tract_cancer
+
+
+<!-- b_Hepa/Pancreas -->
+[IPMN]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Pancreas#ipmn
+[MCN]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Pancreas#mcn
+[SCN]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Pancreas#scn
+[PC]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Pancreas#pc
 
 
 <!-- <style type="text/css">
