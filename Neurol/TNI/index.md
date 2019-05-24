@@ -3,14 +3,14 @@ Filename: 	index.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-05-10 15:11:29
+Modified: 	2019-05-24 16:52:28
 -----
 Copyright (c) 2019 shumez
 -->
 
-# Neurol / TNI 
+# [Teaching Neuroimages][TNI]
 
-<!-- * [19 ](2019-.md) -->
+<!-- * [19mmdd ...](2019-mm-dd_.md) -->
 * [190506 NIID](2019-05-06_66F.md)
 * [190506 Pterygoid myositis](2019-05-06_51F.md)
 * [190429 8F](2019-04-29_08F.md)
@@ -29,11 +29,7 @@ Copyright (c) 2019 shumez
 
 
 
-
-
-
-[x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?\inline&space;x+\frac{1}{x}=1
-<!-- [x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?x+\frac{1}{x}=1 -->
+[TNI]: https://www.neurology.org/search/jcode%3Aneurology%7C%7Cneurclinpract%7C%7Cnng%7C%7Cnnn%20sort%3Apublication-date%20toc_section%3AResident%20and%20Fellow%20Section%7C%7C%20Resident%20%26%20Fellow%20Section?see_more_page=1&see_more_page_title=
 
 <!-- <style type="text/css">
 	img{width: 50%; float: right;}
