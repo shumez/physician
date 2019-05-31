@@ -3,14 +3,15 @@ Filename: 	index.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-05-24 16:52:28
+Modified: 	2019-05-29 17:44:52
 -----
 Copyright (c) 2019 shumez
 -->
 
 # [Teaching Neuroimages][TNI]
 
-<!-- * [19mmdd ...](2019-mm-dd_.md) -->
+<!-- * [19 ](2019--_.md) -->
+* [190527 Aspergillosis-induced vasculitis](TNI/2019-05-27_56M.md)
 * [190506 NIID](2019-05-06_66F.md)
 * [190506 Pterygoid myositis](2019-05-06_51F.md)
 * [190429 8F](2019-04-29_08F.md)
