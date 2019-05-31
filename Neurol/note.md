@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-05-31 14:19:57
+Modified: 	2019-05-31 14:44:6
 -----
 Copyright (c) 2019 shumez
 -->
@@ -16,7 +16,14 @@ Copyright (c) 2019 shumez
 
 ## Contents
 
-### [Clinical Reasoning][CR]
+* [Clinical Reasoning][CR]
+* [Mistery Case][MC]
+* [Teaching Neuroimages][TNI]
+* [Teaching Video NeuroImages][TVNI]
+* [Pearls & Oy-sters][PaO]
+* [Global & Community Health][GaCH]
+
+## [Clinical Reasoning][CR]
 * 2019
 	* 05
 		* [190527 ](CR/2019-05-27_55F.md)
@@ -45,13 +52,14 @@ Copyright (c) 2019 shumez
 		* [190114](CR/2019-01-14.md)
 		* [190107](CR/2019-01-07.md)
 
-###  [Mistery Case][MC]
+##  [Mistery Case][MC]
 * 2019
 	* 05
+		* [190527 35F](MC/2019-05-27_35F.md)
 	* 04
 		* [190429 ](MC/2019-04-29_23M.md)
 
-###  [Teaching Neuroimages][TNI]
+##  [Teaching Neuroimages][TNI]
 * 2019
 	* 05
 		* [190506 NIID](TNI/2019-05-06_66F.md)
@@ -71,7 +79,7 @@ Copyright (c) 2019 shumez
 		* [190401 10M](TNI/2019-04-01_10M.md)
 		* [190401 Jacobsen synd](TNI/2019-04-01_08mM.md)
 
-### [Teaching Video NeuroImages][TVNI]
+## [Teaching Video NeuroImages][TVNI]
 * 2019
 	* 05
 		* [190527 Foix-Chavany-Marie](TVNI/2019-05-27_75F)
@@ -82,7 +90,7 @@ Copyright (c) 2019 shumez
 		* [190422 48M](TVNI/2019-04-22_48M.md)
 		* [190401 10M](TVNI/2019-04-01_10M.md)
 
-### [Pearls & Oy-sters][PaO]
+## [Pearls & Oy-sters][PaO]
 * 2019
 	* 05
 		* [190520 May-Thurner synd](PaO/2019-05-20_35F.md)
@@ -96,7 +104,7 @@ Copyright (c) 2019 shumez
 		* 190114 The dangers of PRES
 		* 190107 Challenging diagnosis
 
-### [Global & Community Health][GaCH]
+## [Global & Community Health][GaCH]
 * 2019
 	* 04
 		* [190408 djina](GaCH/2019-04-08.md)
@@ -131,15 +139,18 @@ Copyright (c) 2019 shumez
 
 	
 ##
+<!-- toc -->
+[CR]: #clinical_reasoning
+[MC]: #mistery_case
+[TNI]: #teaching_neuroimages
+[TVNI]: #teaching_video_neuroimages
+[PaO]: #pearls_oy-sters
+[GaCH]: #global_community_health
+
 <!-- ref -->
 [Neurol]: https://www.neurology.org/search/jcode%3Aneurology%7C%7Cneurclinpract%7C%7Cnng%7C%7Cnnn%20sort%3Apublication-date%20toc_section%3AResident%20and%20Fellow%20Section%7C%7C%20Resident%20%26%20Fellow%20Section?see_more_page=1&see_more_page_title=
 [RaFS]: https://www.neurology.org/search/jcode%3Aneurology%7C%7Cneurclinpract%7C%7Cnng%7C%7Cnnn%20sort%3Apublication-date%20toc_section%3AResident%20and%20Fellow%20Section%7C%7C%20Resident%20%26%20Fellow%20Section?see_more_page=1&see_more_page_title=
-[CR]: CR
-[MC]: MC
-[TNI]: TNI
-[TVNI]: TVNI
-[PaO]: PaO
-[GaCH]: GaCH
+
 
 <!-- fig -->
 [cover]: https://n.neurology.org/sites/default/files/styles/large/public/highwire/neurology/92/23.cover-source.jpg?itok=XRnt8sIV
