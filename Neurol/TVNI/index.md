@@ -3,14 +3,15 @@ Filename: 	index.md
 Project: 	/Users/shume/Developer/physician/Neurol/TVNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-10 14:27:8
-Modified: 	2019-05-24 16:52:30
+Modified: 	2019-05-29 18:07:35
 -----
 Copyright (c) 2019 shumez
 -->
 
 # [Teachin Video NeuroImages][TVNI]
 
-<!-- * [19mmdd ...](2019-mm-dd_.md) -->
+<!-- * [19 ](2019--_.md) -->
+* [190527 Foix-Chavany-Marie](2019-05-27_75F.md)
 * [190513 PTS](2019-05-13_43F.md)
 * [190506 anti-DPPX encephalitis](2019-05-06_49M.md)
 * [190429 60F](2019-04-29_60F.md)
