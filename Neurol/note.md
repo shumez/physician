@@ -1,9 +1,9 @@
 <!--
-Filename: 	index.md
+Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-05-24 17:20:51
+Modified: 	2019-05-31 14:10:3
 -----
 Copyright (c) 2019 shumez
 -->
@@ -13,6 +13,7 @@ Copyright (c) 2019 shumez
 [Resident & Fellow section][RaFS]
 
 * [CR]
+	* [190527 ](CR/2019-05-27_55F.md)
 	* [190514 POLG-related epilesy](CR/2019-05-14_29F.md)
 	* [190422 ](CR/2019-04-22_71M.md)
 	* [190325 CVST](CR/2019-03-25_15M.md)
@@ -52,6 +53,7 @@ Copyright (c) 2019 shumez
 	* [190401 10M](TNI/2019-04-01_10M.md)
 	* [190401 Jacobsen synd](TNI/2019-04-01_08mM.md)
 * [TVNI]
+	* [190527 Foix-Chavany-Marie](TVNI/2019-05-27_75F)
 	* [190513 PTS](TVNI/2019-05-13_43F.md)
 	* [190506 anti-DPPX encephalitis](TVNI/2019-05-06_49M.md)
 	* [190429 60F](TVNI/2019-04-29_60F.md)
