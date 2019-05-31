@@ -1,19 +1,31 @@
 <!--
-Filename: 	index.md
+Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-05-29 17:44:52
+Modified: 	2019-05-31 13:30:22
 -----
 Copyright (c) 2019 shumez
 -->
 
 # [Teaching Neuroimages][TNI]
 
+## Contents
+
+### [2019]
+
+#### [2019-05]
+
 <!-- * [19 ](2019--_.md) -->
 * [190527 Aspergillosis-induced vasculitis](TNI/2019-05-27_56M.md)
+* [190520 Neurosarcoidosis](2019-05-20_45M.md)
+* [190520 Ictal asystole](2019-05-20_43M.md)
+* [190513 Megalencephalic leukoencephalopathy with subcortical cysts](2019-05-13_01M.md)
+* [190513 Stroke](2019-05-13_73M.md)
 * [190506 NIID](2019-05-06_66F.md)
 * [190506 Pterygoid myositis](2019-05-06_51F.md)
+
+#### [2019-04]
 * [190429 8F](2019-04-29_08F.md)
 * [190429 Idiopathic hypereosinophilic synd](2019-04-29_56F.md)
 * [190422 Hypoplasia of transverse sinus](2019-04-22_23F.md)
@@ -29,8 +41,15 @@ Copyright (c) 2019 shumez
 * [190401 Jacobsen synd](Neurol/TNI/2019-04-01_08mM.md)
 
 
+##
+<!-- toc -->
+[2019]: #contents
+[2019-05]: #contents
+[2019-04]: #contents
 
+<!-- ref -->
 [TNI]: https://www.neurology.org/search/jcode%3Aneurology%7C%7Cneurclinpract%7C%7Cnng%7C%7Cnnn%20sort%3Apublication-date%20toc_section%3AResident%20and%20Fellow%20Section%7C%7C%20Resident%20%26%20Fellow%20Section?see_more_page=1&see_more_page_title=
+
 
 <!-- <style type="text/css">
 	img{width: 50%; float: right;}
