@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-05-31 13:30:22
+Modified: 	2019-06-07 14:42:29
 -----
 Copyright (c) 2019 shumez
 -->
@@ -17,7 +17,7 @@ Copyright (c) 2019 shumez
 #### [2019-05]
 
 <!-- * [19 ](2019--_.md) -->
-* [190527 Aspergillosis-induced vasculitis](TNI/2019-05-27_56M.md)
+* [190527 Aspergillosis-induced vasculitis](2019-05-27_56M.md)
 * [190520 Neurosarcoidosis](2019-05-20_45M.md)
 * [190520 Ictal asystole](2019-05-20_43M.md)
 * [190513 Megalencephalic leukoencephalopathy with subcortical cysts](2019-05-13_01M.md)
