@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-06-07 14:42:29
+Modified: 	2019-06-07 14:45:29
 -----
 Copyright (c) 2019 shumez
 -->
@@ -37,8 +37,7 @@ Copyright (c) 2019 shumez
 * [190408 Dural AVF](2019-04-08_39M.md)
 * [190408 ADA2 deficiency](2019-04-08_14M.md)
 * [190401 ](2019-04-01.md)
-* [190401 10M](2019-04-01_10M.md)
-* [190401 Jacobsen synd](Neurol/TNI/2019-04-01_08mM.md)
+* [190401 Jacobsen synd](2019-04-01_08mM.md)
 
 
 ##
