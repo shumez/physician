@@ -3,7 +3,7 @@ Filename: 	index.md
 Project: 	/Users/shume/Developer/physician/Neurol/PaO
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-09 19:26:0
-Modified: 	2019-05-31 13:45:13
+Modified: 	2019-06-07 14:37:49
 -----
 Copyright (c) 2019 shumez
 -->
@@ -13,11 +13,13 @@ Copyright (c) 2019 shumez
 ## Contents
 
 * 2019
+    * 06
+    <!-- * [19 ](2019--_.md) -->
+        * [190603 CAARI](2019-06-03_66M.md)
     * 05
-        <!-- * [19mmdd ...](2019-mm-dd_yoMF.md) -->
         * [190520 May-Thurner synd](2019-05-20_35F.md)
     * 04
-        * [190401 Bismuth neurotoxicity](2019-04-01_53F.md)
+        * [190401 Bismuth neurotoxicity](2019-04-01_53M.md)
 
 ##
 <!-- ref -->
