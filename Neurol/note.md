@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-05-31 14:44:6
+Modified: 	2019-06-07 14:11:10
 -----
 Copyright (c) 2019 shumez
 -->
@@ -16,12 +16,12 @@ Copyright (c) 2019 shumez
 
 ## Contents
 
-* [Clinical Reasoning][CR]
-* [Mistery Case][MC]
-* [Teaching Neuroimages][TNI]
-* [Teaching Video NeuroImages][TVNI]
-* [Pearls & Oy-sters][PaO]
-* [Global & Community Health][GaCH]
+* [Clinical Reasoning]
+* [Mistery Case]
+* [Teaching Neuroimages]
+* [Teaching Video NeuroImages]
+* [Pearls & Oy-sters]
+* [Global & Community Health]
 
 ## [Clinical Reasoning][CR]
 * 2019
@@ -31,26 +31,26 @@ Copyright (c) 2019 shumez
 	* 04
 		* [190422 ](CR/2019-04-22_71M.md)
 	* 03
-		* [190325 CVST](CR/2019-03-25_15M.md)
-		* [190318 MGA](CR/2019-03-18_58M.md)
-		* [190304 HMERF](CR/2019-03-04_54M.md)
+		<!-- * [190325 CVST](CR/2019-03-25_15M.md) -->
+		<!-- * [190318 MGA](CR/2019-03-18_58M.md) -->
+		<!-- * [190304 HMERF](CR/2019-03-04_54M.md) -->
 	* 02
-		* [190225 AML](CR/2019-02-25_36F.md)
-		* [190211 Subacute small vessel infarcton](CR/2019-02-11_65F.md)
-		* [190204 HAM](CR/2019-02-04_48F.md)
+		<!-- * [190225 AML](CR/2019-02-25_36F.md) -->
+		<!-- * [190211 Subacute small vessel infarcton](CR/2019-02-11_65F.md) -->
+		<!-- * [190204 HAM](CR/2019-02-04_48F.md) -->
 	* 01
-		* [190128 IBM](CR/2019-01-28_40F.md)
-		* [190325 15y M](CR/2019-03-25_15M.md)
-		* [190318 58y M](CR/2019-03-18_58M.md)
-		* [190304 15y M](CR/2019-03-04_15M.md)
-		* [190304 54y M](CR/2019-03-04_54M.md)
-		* [190225 36y F](CR/2019-02-25_36F.md)
-		* [190211 65y F](CR/2019-02-11_65F.md) A 65-year-old woman with subacute hemiballism
-		* [190204 48y F](CR/2019-02-04_48F.md) Leg weakness and stiffness at the emergency room
-		* [190128 40y F](CR/2019-01-28_40F.md)
-		* [190121](CR/2019-01-21.md)
-		* [190114](CR/2019-01-14.md)
-		* [190107](CR/2019-01-07.md)
+		<!-- * [190128 IBM](CR/2019-01-28_40F.md) -->
+		<!-- * [190325 15y M](CR/2019-03-25_15M.md) -->
+		<!-- * [190318 58y M](CR/2019-03-18_58M.md) -->
+		<!-- * [190304 15y M](CR/2019-03-04_15M.md) -->
+		<!-- * [190304 54y M](CR/2019-03-04_54M.md) -->
+		<!-- * [190225 36y F](CR/2019-02-25_36F.md) -->
+		<!-- * [190211 65y F](CR/2019-02-11_65F.md) A 65-year-old woman with subacute hemiballism -->
+		<!-- * [190204 48y F](CR/2019-02-04_48F.md) Leg weakness and stiffness at the emergency room -->
+		<!-- * [190128 40y F](CR/2019-01-28_40F.md) -->
+		<!-- * [190121](CR/2019-01-21.md) -->
+		<!-- * [190114](CR/2019-01-14.md) -->
+		<!-- * [190107](CR/2019-01-07.md) -->
 
 ##  [Mistery Case][MC]
 * 2019
@@ -140,12 +140,20 @@ Copyright (c) 2019 shumez
 	
 ##
 <!-- toc -->
-[CR]: #clinical_reasoning
-[MC]: #mistery_case
-[TNI]: #teaching_neuroimages
-[TVNI]: #teaching_video_neuroimages
-[PaO]: #pearls_oy-sters
-[GaCH]: #global_community_health
+
+[Clinical Reasoning]: #clinical_reasoning
+[Mistery Case]: #mistery_case
+[Teaching Neuroimages]: #teaching_neuroimages
+[Teaching Video NeuroImages]: #teaching_video_neuroimages
+[Pearls & Oy-sters]: #pearls_oy-sters
+[Global & Community Health]: #global_community_health
+
+[CR]: CR/
+[MC]: MC/
+[TNI]: TNI/
+[TVNI]: TVNI/
+[PaO]: PaO/
+[GaCH]: GaCH/
 
 <!-- ref -->
 [Neurol]: https://www.neurology.org/search/jcode%3Aneurology%7C%7Cneurclinpract%7C%7Cnng%7C%7Cnnn%20sort%3Apublication-date%20toc_section%3AResident%20and%20Fellow%20Section%7C%7C%20Resident%20%26%20Fellow%20Section?see_more_page=1&see_more_page_title=
