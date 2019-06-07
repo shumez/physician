@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/NEJM/IiCM
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 20:22:2
-Modified: 	2019-05-31 12:21:34
+Modified: 	2019-06-07 14:08:33
 -----
 Copyright (c) 2019 shumez
 -->
@@ -15,6 +15,10 @@ Copyright (c) 2019 shumez
 ### [2019]
 
 <!-- * [19 ](19--_.md) -->
+
+#### [2019-06]
+* [190606 Disseminated Coccidioidomycosis](2019-06-06_34M.md)
+* [190606 Chronic Silicosis](2019-06-06_76M.md)
 #### [2019-05]
 * [190530 IgG4RD](2019-05-30_47M.md)
 * [190530 mass in LV](2019-05-30_84M.md)
@@ -41,6 +45,7 @@ Copyright (c) 2019 shumez
 ## 
 <!-- toc -->
 [2019]: #2019
+[2019-06]: #2019-06
 [2019-05]: #2019-05
 [2019-04]: #2019-04
 [2019-03]: #2019-03
