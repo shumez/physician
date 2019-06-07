@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-06-07 14:11:10
+Modified: 	2019-06-07 14:50:21
 -----
 Copyright (c) 2019 shumez
 -->
@@ -76,7 +76,6 @@ Copyright (c) 2019 shumez
 		* [190408 Dural AVF](TNI/2019-04-08_39M.md)
 		* [190408 ADA2 deficiency](TNI/2019-04-08_14M.md)
 		* [190401 ](TNI/2019-04-01.md)
-		* [190401 10M](TNI/2019-04-01_10M.md)
 		* [190401 Jacobsen synd](TNI/2019-04-01_08mM.md)
 
 ## [Teaching Video NeuroImages][TVNI]
@@ -95,7 +94,7 @@ Copyright (c) 2019 shumez
 	* 05
 		* [190520 May-Thurner synd](PaO/2019-05-20_35F.md)
 	* 04
-		* [190401 Bismuth neurotoxicity](PaO/2019-04-01_53F.md)
+		* [190401 Bismuth neurotoxicity](PaO/2019-04-01_53M.md)
 	* 02
 		* 190225 Giant descending
 		* 190211 Hydroxychloroquine-induced toxic
