@@ -1,0 +1,23 @@
+/*
+ * Filename: 	extra.css
+ * Project: 	/Users/shume/Developer/physician/docs/docs/css
+ * Author: 	shumez <https://github.com/shumez>
+ * Created: 	2019-06-07 13:06:3
+ * Modified: 	2019-06-07 13:07:50
+ * -----
+ * Copyright (c) 2019 shumez
+ */
+
+img{
+    width: 66%; 
+    float: right;
+}
+img:hover{
+    width: 100%;
+}
+strong, a, a:hover, a:visited{
+    color: #007448;
+}
+a:visited{
+    font-weight: bold;
+}
