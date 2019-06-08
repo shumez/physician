@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol/TVNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-10 14:27:8
-Modified: 	2019-05-31 13:35:58
+Modified: 	2019-06-08 11:52:46
 -----
 Copyright (c) 2019 shumez
 -->
@@ -14,9 +14,10 @@ Copyright (c) 2019 shumez
 
 ### [2019]
 
-#### [2019-05]
-<!-- * [19 ](2019--_.md) -->
+#### [2019-06]
+* [190603 Isaacs synd](2019-06-03_36M.md)
 
+#### [2019-05]
 * [190527 Foix-Chavany-Marie](2019-05-27_75F.md)
 * [190513 PTS](2019-05-13_43F.md)
 * [190506 anti-DPPX encephalitis](2019-05-06_49M.md)
