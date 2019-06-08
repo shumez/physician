@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-06-07 14:45:29
+Modified: 	2019-06-08 11:50:36
 -----
 Copyright (c) 2019 shumez
 -->
@@ -13,6 +13,10 @@ Copyright (c) 2019 shumez
 ## Contents
 
 ### [2019]
+
+#### [2019-06]
+
+* [190603 Leukoencephalopathy in CAA](2019-06-03_60F.md)
 
 #### [2019-05]
 
