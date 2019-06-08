@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-06-08 11:51:12
+Modified: 	2019-06-08 11:54:3
 -----
 Copyright (c) 2019 shumez
 -->
@@ -82,6 +82,8 @@ Copyright (c) 2019 shumez
 
 ## [Teaching Video NeuroImages][TVNI]
 * 2019
+	* 06
+		* [190603 Isaacs synd](TVNI/2019-06-03_36M.md)
 	* 05
 		* [190527 Foix-Chavany-Marie](TVNI/2019-05-27_75F)
 		* [190513 PTS](TVNI/2019-05-13_43F.md)
