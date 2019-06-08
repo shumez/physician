@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-06-07 14:50:21
+Modified: 	2019-06-08 11:51:12
 -----
 Copyright (c) 2019 shumez
 -->
@@ -61,6 +61,8 @@ Copyright (c) 2019 shumez
 
 ##  [Teaching Neuroimages][TNI]
 * 2019
+	* 06
+		* [190603 Leukoencephalopathy in CAA](TNI/2019-06-03_60F.md)
 	* 05
 		* [190506 NIID](TNI/2019-05-06_66F.md)
 		* [190506 Pterygoid myositis](TNI/2019-05-06_51F.md)
