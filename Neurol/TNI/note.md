@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol/TNI
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:26:6
-Modified: 	2019-06-08 11:50:36
+Modified: 	2019-06-11 16:12:20
 -----
 Copyright (c) 2019 shumez
 -->
@@ -16,6 +16,8 @@ Copyright (c) 2019 shumez
 
 #### [2019-06]
 
+* [190610 Persistent anterograde amnesia](2019-06-10_62M.md)
+* [190610 Nocardiosis](2019-06-10_36M.md)
 * [190603 Leukoencephalopathy in CAA](2019-06-03_60F.md)
 
 #### [2019-05]
