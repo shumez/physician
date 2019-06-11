@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/Neurol
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 11:33:2
-Modified: 	2019-06-08 11:54:3
+Modified: 	2019-06-11 16:13:16
 -----
 Copyright (c) 2019 shumez
 -->
@@ -62,6 +62,8 @@ Copyright (c) 2019 shumez
 ##  [Teaching Neuroimages][TNI]
 * 2019
 	* 06
+		* [190610 Persistent anterograde amnesia](TNI/2019-06-10_62M.md)
+		* [190610 Nocardiosis](TNI/2019-06-10_36M.md)
 		* [190603 Leukoencephalopathy in CAA](TNI/2019-06-03_60F.md)
 	* 05
 		* [190506 NIID](TNI/2019-05-06_66F.md)
