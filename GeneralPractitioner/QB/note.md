@@ -3,28 +3,27 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-08 16:25:0
-Modified: 	2019-06-12 19:39:44
+Modified: 	2019-06-12 20:39:58
 -----
 Copyright (c) 2019 shumez
 -->
 
-# QB
+# QB Part.1
 
-## ToC
+![][cover]
 
-* [GE]
-* [CV]
-* [Endo-Meta]
-* [Nephro]
-* [Immune]
-* [Heme]
-* [Infxn]
-* [Pulmo]
-* [Neuro]
-* [ER]
+## Contents
 
-
-## 
+01. [GE]
+02. [CV]
+03. [Endo-Meta]
+04. [Nephro]
+05. [Immune]
+06. [Heme]
+07. [Infxn]
+08. [Pulmo]
+09. [Neuro]
+10. [ER]
 
 
 
@@ -32,18 +31,20 @@ Copyright (c) 2019 shumez
 ##
 
 <!-- ref -->
-[GE]: GE.md
-[CV]: CV.md
-[Endo-Meta]: Endo-Meta.md
-[Nephro]: Nephro.md
-[Immune]: Immune.md
-[Heme]: Heme.md
-[Infxn]: Infxn.md
-[Pulmo]: Pulmo.md
-[Neuro]: Neuro.md
-[ER]: ER.md
-<!-- fig -->
+[GE]: GE/
+[CV]: CV/
+[Endo-Meta]: Endo-Meta/
+[Nephro]: Nephro/
+[Immune]: Immune/
+[Heme]: Heme/
+[Infxn]: Infxn/
+[Pulmo]: Pulmo/
+[Neuro]: Neuro/
+[ER]: ER/
 
-<!-- <style type="text/css">
+<!-- fig -->
+[cover]: https://images-na.ssl-images-amazon.com/images/I/51ooAw2ZG-L._SX355_BO1,204,203,200_.jpg
+
+<style type="text/css">
 	img{width: 51%; float: right;}
-</style> -->
+</style>
