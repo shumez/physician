@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-21 16:49:4
-Modified: 	2019-04-21 16:50:58
+Modified: 	2019-06-12 19:38:29
 -----
 Copyright (c) 2019 shumez
 -->
@@ -12,16 +12,12 @@ Copyright (c) 2019 shumez
 
 ## Contents
 
-1. [...](#)
-    1. [...](#)
-
+* [QB]
 
 ## 
 
 
-
-
-<!-- [x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?x+\frac{1}{x}=1 -->
+[QB]: QB/index.md
 
 <!-- <style type="text/css">
 	img{width: 50%; float: right;}
