@@ -3,7 +3,7 @@ Filename: 	GE.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 17:27:7
-Modified: 	2019-05-15 18:04:8
+Modified: 	2019-06-12 17:37:32
 -----
 Copyright (c) 2019 shumez
 -->
@@ -447,7 +447,7 @@ e. 漿液性嚢胞腫瘍 (SCN) はIPMNと同様, 主膵管との交通がみら�
 a. [門脈圧亢進症][]を認める  
 b. 水様性下痢が著しい  
 c. [糖尿病][DM]の新規発症や悪化を来す  
-d. CA10-9は経過観察上有用  
+d. CA19-9は経過観察上有用  
 e. 血管造影は腫瘍血管に乏しい 
 
 -------------------------------------------------------------
@@ -461,6 +461,39 @@ e. 血管造影は腫瘍血管に乏しい
 > e.  
 
 -------------------------------------------------------------
+
+
+## 020
+
+[![][fig020]][fig020]
+
+51yo M. 嚥下困難と体重減少とを主訴に来院した.  
+6年前から食物のつかえ感を自覚していた. 最近, 症状の悪化があり, 体重が1ヶ月で5kg減少した. 身長169cm, 体重47kg. 胸腹部に異常所見を認めない.  
+血液所見: RBC 384万, Hb 11.5g/dL, Ht 34%, WBC 7500.  
+血清生化学所見: TP 6.1g/dL, Alb 3.7g/dL, BUN 12mg/dL, Cr 0.6mg/dL, AST 19IU, ALT 21IU.  
+上部消化管造影写真を次に示す. この疾患で正しいのは?
+
+a. 男性に多い  
+b. 嗄声をきたす  
+c. 食道の同期性収縮  
+d. 食道胃接合部圧は上昇する  
+e. 胃液の逆流によって発生 
+
+-------------------------------------------------------------
+
+> Dx: [achalasia]
+
+> Answer: c,d
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e.  
+
+-------------------------------------------------------------
+
+
 
 ##
 
@@ -494,6 +527,7 @@ e.
 
 <!-- a_GE/Oesophagus -->
 [esophageal cancer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Oesophagus#esophageal_cancer
+[achalasia]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Oesophagus#achalasia
 
 <!-- a_GE/Stomach -->
 [gastric cancer]: https://shumez.github.io/mnemosyne/MMB/site/a_GE/Stomach#gastric_cancer
@@ -523,6 +557,9 @@ e.
 [PC]: https://shumez.github.io/mnemosyne/MMB/site/b_Hepa/Pancreas#pc
 
 
-<!-- <style type="text/css">
+<!-- fig -->
+[fig020]: #
+
+<style type="text/css">
 	img{width: 50%; float: right;}
-</style> -->
+</style>
