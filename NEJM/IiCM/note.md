@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/NEJM/IiCM
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 20:22:2
-Modified: 	2019-06-07 14:08:33
+Modified: 	2019-06-14 19:59:34
 -----
 Copyright (c) 2019 shumez
 -->
@@ -17,6 +17,8 @@ Copyright (c) 2019 shumez
 <!-- * [19 ](19--_.md) -->
 
 #### [2019-06]
+* [190613 Situs Inversus Totalis](2019-06-13_66M.md)
+* [190613 T prolymphocytic leuk](2019-06-13_64M.md)
 * [190606 Disseminated Coccidioidomycosis](2019-06-06_34M.md)
 * [190606 Chronic Silicosis](2019-06-06_76M.md)
 #### [2019-05]
