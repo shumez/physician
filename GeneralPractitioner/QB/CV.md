@@ -3,7 +3,7 @@ Filename: 	CV.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 21:03:5
-Modified: 	2019-06-26 17:29:49
+Modified: 	2019-06-26 17:41:55
 -----
 Copyright (c) 2019 shumez
 -->
@@ -38,6 +38,35 @@ e. 左心室後負荷の減少
 
 -------------------------------------------------------------
 
+
+## 049
+
+再発性失神の原因を同定するための検査として有用性が**低い**のはどれか.
+
+a. ホルター心電図  
+b. 運動負荷心電図  
+c. 植込み型ループレコーダー  
+d. ヘッドアップティルト試験  
+e. 携帯型心電計  
+
+-------------------------------------------------------------
+
+> Answer: e
+
+> [失神][syncope]
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e. 症状が起きたときに, 自分で機器を胸に当てる必要がある  
+
+-------------------------------------------------------------
+
+
+
+
+
 ## 
 
 <!--
@@ -68,7 +97,8 @@ e.
 [MMB]: https://shumez.github.io/mnemosyne/MMB/site/
 
 <!-- CV -->
-[IABP]: https://shumez.github.io/mnemosyne/MMB/site/
+[IABP]: https://shumez.github.io/mnemosyne/MMB/site/c_CV/
+[syncope]: https://shumez.github.io/mnemosyne/MMB/site/c_CV/
 
 <!-- fig -->
 
