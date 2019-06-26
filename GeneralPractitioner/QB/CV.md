@@ -3,7 +3,7 @@ Filename: 	CV.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 21:03:5
-Modified: 	2019-04-22 21:18:11
+Modified: 	2019-06-26 17:29:49
 -----
 Copyright (c) 2019 shumez
 -->
@@ -16,10 +16,32 @@ Copyright (c) 2019 shumez
     1. [...](#) -->
 
 
+## 048
+
+[IABP]の効果で誤っているのはどれか
+
+a. 心拍出量の増加  
+b. 冠血流量の増加  
+c. 収縮期血圧の上昇  
+d. 拡張期血圧の上昇  
+e. 左心室後負荷の減少  
+
+-------------------------------------------------------------
+
+> Answer: c
+
+> a.   
+> b.   
+> c.   
+> d.   
+> e.  
+
+-------------------------------------------------------------
+
 ## 
 
 <!--
-## q
+## 
 
 ?
 
@@ -42,10 +64,14 @@ e.
 -------------------------------------------------------------
 -->
 
+<!-- ref -->
+[MMB]: https://shumez.github.io/mnemosyne/MMB/site/
 
-[x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?\inline&space;x+\frac{1}{x}=1
-<!-- [x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?x+\frac{1}{x}=1 -->
+<!-- CV -->
+[IABP]: https://shumez.github.io/mnemosyne/MMB/site/
 
-<!-- <style type="text/css">
+<!-- fig -->
+
+<style type="text/css">
 	img{width: 50%; float: right;}
-</style> -->
+</style>
