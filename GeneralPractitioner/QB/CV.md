@@ -3,7 +3,7 @@ Filename: 	CV.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 21:03:5
-Modified: 	2019-07-03 17:50:37
+Modified: 	2019-07-03 17:58:44
 -----
 Copyright (c) 2019 shumez
 -->
@@ -141,6 +141,35 @@ e. 頭蓋内出血の頻度はワルファリンより高い.
 -------------------------------------------------------------
 
 
+## 053
+
+[アミオダロン][amiodarone]の心外副作用のチェックに必要な血液検査項目として**適当でない**のはどれか.
+
+a. ALT  
+b. LDH  
+c. HbAlc  
+d. TSH  
+e. KL-6
+
+-------------------------------------------------------------
+
+> Answer: c
+
+> a. 肝障害  
+> b. 肝障害, 間質性肺炎  
+> c.   
+> d. 甲状腺機能障害  
+> e. 間質性肺炎 
+
+[amiodarone] 心外副作用:
+
+- 間質性肺炎
+- 肝障害
+- 甲状腺機能障害
+
+-------------------------------------------------------------
+
+
 ## 
 
 <!--
@@ -173,6 +202,8 @@ e.
 <!-- CV -->
 [IABP]: https://shumez.github.io/mnemosyne/MMB/site/c_CV/
 [syncope]: https://shumez.github.io/mnemosyne/MMB/site/c_CV/
+
+[amiodarone]: https://shumez.github.io/mnemosyne/MMB/site/c_CV/
 
 <!-- fig -->
 
