@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/physician/NEJM/IiCM
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-04 20:22:2
-Modified: 	2019-06-14 19:59:34
+Modified: 	2019-07-05 20:21:0
 -----
 Copyright (c) 2019 shumez
 -->
@@ -15,7 +15,9 @@ Copyright (c) 2019 shumez
 ### [2019]
 
 <!-- * [19 ](19--_.md) -->
-
+#### [2019-07]
+* [190704 Enterobius vermicularis](2019-07-04_32F.md)
+* [190704 Pneumoperitoneum](2019-07-04_02M.md)
 #### [2019-06]
 * [190613 Situs Inversus Totalis](2019-06-13_66M.md)
 * [190613 T prolymphocytic leuk](2019-06-13_64M.md)
@@ -47,6 +49,7 @@ Copyright (c) 2019 shumez
 ## 
 <!-- toc -->
 [2019]: #2019
+[2019-07]: #2019-07
 [2019-06]: #2019-06
 [2019-05]: #2019-05
 [2019-04]: #2019-04
