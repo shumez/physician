@@ -3,7 +3,7 @@ Filename: 	Endo-Meta.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 21:06:4
-Modified: 	2019-08-16 17:21:23
+Modified: 	2019-08-16 17:40:48
 -----
 Copyright (c) 2019 shumez
 -->
@@ -99,6 +99,14 @@ e. レニン・アンジオテンシン系の阻害
 > c.   
 > d.   
 > e.  
+
+- &uarr;Renin
+    - &darr;腎血流量
+    - &uarr;SANS
+        - &beta;~1~
+        - &alpha;
+    - 尿細管Cl^–^輸送異常
+
 
 -------------------------------------------------------------
 
