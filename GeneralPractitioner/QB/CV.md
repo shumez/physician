@@ -3,7 +3,7 @@ Filename: 	CV.md
 Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-22 21:03:5
-Modified: 	2019-07-03 17:58:44
+Modified: 	2019-07-03 19:37:6
 -----
 Copyright (c) 2019 shumez
 -->
@@ -163,11 +163,20 @@ e. KL-6
 
 [amiodarone] 心外副作用:
 
-- 間質性肺炎
+
+- 6Ps
+    - Prolong APD
+    - Photosensitivity 
+    - Pigmentation
+    - Pulonary fibrosis (間質性肺炎)
+    - Peripheral neuropathy
+    - Peripheral conversion of T~4~-T~3~ blocked (甲状腺機能障害)
 - 肝障害
-- 甲状腺機能障害
 
 -------------------------------------------------------------
+
+
+
 
 
 ## 
