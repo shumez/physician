@@ -1,9 +1,9 @@
 <!--
-Filename: 	CV.md
-Project: 	/Users/shume/Developer/physician/GeneralPractitioner/QB
-Author: 	shumez <https://github.com/shumez>
-Created: 	2019-04-22 21:03:5
-Modified: 	2019-07-03 19:37:6
+Filename:	CV.md
+Project:	/Users/shume/Developer/physician/GeneralPractitioner/QB
+Authors:	shumez <https://github.com/shumez>
+Created:	2019-04-22 21:03:22
+Modified:	2019-11-16 16:25:38
 -----
 Copyright (c) 2019 shumez
 -->
@@ -175,6 +175,31 @@ e. KL-6
 
 -------------------------------------------------------------
 
+
+## 054
+
+J波症候群について誤っているのはどれか?
+
+a. Brugada症候群では右側胸部誘導でJ波がみられる.
+b. J波の波高は常に一定である.  
+c. J波は低体温症でもみられる.  
+d. J波は健常人でも認められることがある
+e. 突然死をきたすことがある.  
+
+-------------------------------------------------------------
+
+> Answer: b
+
+> a. [Brugada]  
+> b.   
+> c.   
+> d.   
+> e.  
+
+- Brugada
+- ERS (早期再分極症候群 Early Repolarization Syndrome)
+
+-------------------------------------------------------------
 
 
 
